@@ -78,6 +78,7 @@ Pensado 100% para uso en celular
 La prioridad fue adaptar el sistema al usuario, no el usuario al sistema.
 
 ⚙️ Instalación
+
 📦 Backend (Laravel)
 cd backend
 composer install
